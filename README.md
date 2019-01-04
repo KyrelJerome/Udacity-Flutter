@@ -1,3 +1,7 @@
+# Kyrel's current completion of the Flutter Learning course by Google and Udacity.
+## Completed Tasks 1-5, solutions available.
+
+
 # [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/ud905)
 
 This repo contains everything you need for [Build Native Mobile Apps with Flutter, by Google and Udacity](https://www.udacity.com/course/ud905). The Unit Converter app has been broken down into sub-projects. To get started, [set up your development environment](https://flutter.io/setup) and clone this repo, using `git clone git@github.com:flutter/udacity-course.git` or `git clone https://github.com/flutter/udacity-course.git`.
